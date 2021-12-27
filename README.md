@@ -13,5 +13,5 @@ This repository includes the code samples from:
 Our team consists of 3 members: Tran Thanh Thuy (Co24 FUV), Nguyen Tuan Minh (Co24 FUV), Tran Ngoc Anh (Co24 FUV)
 
 ## More information about Observer Design Pattern:
-https://refactoring.guru/design-patterns/observer
-https://www.baeldung.com/java-observer-pattern
+- https://refactoring.guru/design-patterns/observer
+- https://www.baeldung.com/java-observer-pattern
