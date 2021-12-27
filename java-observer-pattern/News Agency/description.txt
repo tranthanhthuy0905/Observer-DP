@@ -1,0 +1,10 @@
+Source: https://www.baeldung.com/java-observer-pattern
+
+An Observable is an object that notifies observers about the changes in its state
+
+Prompt: A new agency can notify channels when it receives news.
+
+Code structure:
+- NewsAgency: Observable - contains news & Channel
+- NewsChannel: Observer - Channels
+Observable keeps references to Observer through 'Channel' variable
