@@ -1,0 +1,6 @@
+[submodule "Observer-DP"]
+	path = Observer-DP
+	url = https://github.com/tranthanhthuy0905/Observer-DP.git
+[submodule "python-observer"]
+	path = python-observer
+	url = https://github.com/tranthanhthuy0905/python-observer-pattern.git
